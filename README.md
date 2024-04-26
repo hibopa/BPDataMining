@@ -47,5 +47,7 @@ GitHub创建成功
 
 ![image-20240426131556000](E:\BPDataMining\pic\image-20240426131556000.png)
 
+注：README文档中的图片可能不显示，相关图像我已上传至文件夹pic
+
 ## 我想学习的技能
 
