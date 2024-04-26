@@ -7,11 +7,11 @@ https://github.com/
 
 点击右上角注册按钮sign up，来到注册页面
 
-![image-20240426125839904](E:\BPDataMining\pic\image-20240426125839904.png)
+[image-20240426125839904.png](https://github.com/hibopa/BPDataMining/blob/main/pic/image-20240426125839904.png)
 
 在光标处输入邮箱
 
-![image-20240426125909717](E:\BPDataMining\pic\image-20240426125909717.png)
+[image-20240426125909717.png](https://github.com/hibopa/BPDataMining/blob/main/pic/image-20240426125909717.png)
 
 点击Continue，继续在光标处创建密码，继续创建用户名
 
@@ -21,7 +21,7 @@ https://github.com/
 
 GitHub创建成功
 
-![image-20240426130047530](E:\BPDataMining\pic\image-20240426130047530.png)
+[image-20240426130047530.png](https://github.com/hibopa/BPDataMining/blob/main/pic/image-20240426130047530.png)
 
 ## 创建仓库
 
@@ -29,7 +29,7 @@ GitHub创建成功
 
 输入名称，选择public
 
-<img src="C:\Users\86180\AppData\Roaming\Typora\typora-user-images\image-20240426152439818.png" alt="image-20240426152439818" style="zoom: 80%;" />
+[image-20240426130437543.png](https://github.com/hibopa/BPDataMining/blob/main/pic/image-20240426130437543.png)
 
 将仓库导入到本地(git bash https://github.com/hibopa/BPDataMining.git)
 
@@ -45,7 +45,7 @@ GitHub创建成功
 
 5.使用git push origin main 提交上传
 
-![image-20240426131556000](E:\BPDataMining\pic\image-20240426131556000.png)
+[image-20240426131556000.png](https://github.com/hibopa/BPDataMining/blob/main/pic/image-20240426131556000.png)
 
 注：README文档中的图片可能不显示，相关图像我已上传至文件夹pic
 
