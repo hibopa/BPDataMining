@@ -29,7 +29,7 @@ GitHub创建成功
 
 输入名称，选择public
 
-![image-20240426130437543](E:\BPDataMining\pic\image-20240426130437543.png)
+<img src="C:\Users\86180\AppData\Roaming\Typora\typora-user-images\image-20240426152439818.png" alt="image-20240426152439818" style="zoom: 80%;" />
 
 将仓库导入到本地(git bash https://github.com/hibopa/BPDataMining.git)
 
@@ -51,3 +51,6 @@ GitHub创建成功
 
 ## 我想学习的技能
 
+1加强自己的论文阅读能力，尽早想出创新点，做实验，出论文
+
+2我对学习 Web 开发框架Django很感兴趣，然后也可以为积攒经验，为工作攒一些技能包。作为一个高级的 Python Web 框架，它鼓励快速开发和清晰的、实用的设计。它提供了一整套工具和库，用于构建 Web 应用程序，包括用于数据库管理的 ORM、强大的 URL 路由系统、用于 HTML 渲染的模板引擎以及内置的安全功能。另一方面它在业界被广泛应用，并且有一个强大的开发者社区。掌握了Django可以高效、安全地构建动态、交互式的 Web 应用程序。
